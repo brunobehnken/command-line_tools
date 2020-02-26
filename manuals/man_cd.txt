@@ -1,0 +1,13 @@
+CD (User Manual)
+
+Name: cd - change current working directory.
+
+Synopsis: cd <dir>
+
+Description:
+	Change the current working directory of the process.
+
+Authors:
+	Written by Bruno Behnken and Rafael Mendes.
+
+November 2016

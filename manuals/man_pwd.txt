@@ -1,0 +1,13 @@
+PWD (User Manual)
+
+Name: pwd - print the name of current working directory.
+
+Synopsis: pwd
+
+Description:
+	Print the full filename of the current working directory.
+
+Authors:
+	Written by Bruno Behnken and Rafael Mendes.
+
+November 2016

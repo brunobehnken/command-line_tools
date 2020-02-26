@@ -1,0 +1,20 @@
+CAT (User Manual)
+
+Name: cat - concatenates files and print on the standard output.
+
+Synopsis: cat [OPTIONS] ... [FILE] ...
+
+Description:
+	Concatenates FILE(s) or standard input to standard output.
+
+Options:
+	-E: display $ at the end of each line.
+	-T: display TAB characters as ^I.
+	-n: number all output lines.
+	-s: supress repeated empty output lines.
+	-h: show help.
+
+Authors:
+	Written by Bruno Behnken and Rafael Mendes.
+
+November 2016

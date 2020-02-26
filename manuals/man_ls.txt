@@ -1,0 +1,18 @@
+LS (User Manual)
+
+Name: ls - list directory contents.
+
+Synopsis: ls [OPTIONS] ... [DIR]
+
+Description:
+	List the contents of the directory specified in DIR (default is the current directory).
+
+Options:
+	-a: show all (do not ignore entries starting with .).
+	-f: do not sort.
+	-i: print the inode number of each file.
+
+Authors:
+	Written by Bruno Behnken and Rafael Mendes.
+
+November 2016
